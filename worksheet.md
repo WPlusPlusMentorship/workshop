@@ -1,6 +1,6 @@
 # W++ Workshop Worksheet
 
-Use this to detail how you relate to the four phases (see phases.md)
+Use this to detail how you relate to the [four phases](./phases.md).
 
 ## Phase 1: Hitting a Wall
 
