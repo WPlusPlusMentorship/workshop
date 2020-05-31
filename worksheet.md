@@ -22,7 +22,7 @@ You find yourself lacking something. You know what you want to achieve, and you�
 
 * Frustration - "I know I'm capable, so why can't I figure this out?"
 * Self-doubt - "I am having a high level of anxiety that I'm just not good enough"
-* Being forced to settle - "I have to accept conditions that really bother me. I am in this never-ending loop of trying accept, but then eventually not being able to accept it."
+* Being forced to settle - "I have to accept conditions that really bother me. I am in this never-ending loop of trying to accept, but then eventually not being able to accept it."
 * Lacking resources - "I’m willing to do the work but I don’t know how to approach this effectively"
 
 ### Reflection
