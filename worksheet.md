@@ -26,6 +26,7 @@ You find yourself lacking something. You know what you want to achieve, and you�
 * Lacking resources - "I’m willing to do the work but I don’t know how to approach this effectively"
 
 ### Reflection
+I kind of relate to this because I feel like I have to be really intentional and verbose with my technical design work whereas other coworkers seem to just 1, 2, click concepts. I know I'm still in-training with technical design work and I'm comparing myself to people who have multiple years of experience over me, but I sometimes can't shake the insecurity. I struggle to control my anxiety when I don't have all the answers or can't totally explain my reasoning for my technical design work. I am also nervous about next steps; I've decided to pursue getting my AWS Certification as a way to give myself some accountability and structured learning, but I am definitely worried about my own bandwidth. I feel I already struggle with work-life balance, and I am not willing to give up other parts of my life for my work, so I just really need to figure it out.
 
 ### Notes
 
@@ -40,6 +41,7 @@ Pouring yourself into resourcing and figuring out what you need to advance
 * Analyzing the reality - Identify the limitations of your environment and how you can subtract, add, or modify to it
 
 ### Reflection
+I've honestly not read a whole lot about my problem with technical design work. I have a career worksheet, and I see that I am improving at technical design. I've engaged with my manager and the VP of Engineering to support my goals. I also have a good technical mentor who I can check in with as a coworker, so that's a good support system. I don't have a community that's fighting this same exact battle, so I probably could find one. I think the limitations are really finding the time that I can realistically to tackle this AWS Certification. I also think I need to as much as possible, stop comparing myself to people who have years of experience on me, because that is tearing me down.
 
 ### Notes
 
@@ -54,6 +56,12 @@ The output of Step 2. Actionable short-term steps towards a long-term goal
 * Committing mentally - No pain, no gain. Commit to the short-term struggle
 
 ### Reflection
+
+1. Commit mentally to belief in myself and my ability to figure it out.
+2. Commit mentally to not comparing myself to others and to ask questions when I am lost.
+3. Commit mentally to allowing myself to not know the answers.
+4. Fill out my mindset map and use it to hold myself accountable to having balance in my life.
+5. I can do some searching to see if there's a community/cohort that's studying for their AWS certification
 
 ### Notes
 
